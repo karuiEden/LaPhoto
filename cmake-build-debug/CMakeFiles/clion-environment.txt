@@ -1,0 +1,3 @@
+ToolSet: Ubuntu 24.04.2 LTS (remote)Options: 
+
+Options:-DCMAKE_C_COMPILER=/bin/clang-18

@@ -1,0 +1,2 @@
+/bin/llvm-ar-18 qc libALGO.a CMakeFiles/ALGO.dir/algorithm.cpp.o
+/bin/llvm-ranlib-18 libALGO.a

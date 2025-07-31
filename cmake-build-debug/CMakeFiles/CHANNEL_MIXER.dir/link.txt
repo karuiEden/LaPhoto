@@ -1,0 +1,2 @@
+/bin/llvm-ar-18 qc libCHANNEL_MIXER.a CMakeFiles/CHANNEL_MIXER.dir/channel_mixer.cpp.o
+/bin/llvm-ranlib-18 libCHANNEL_MIXER.a

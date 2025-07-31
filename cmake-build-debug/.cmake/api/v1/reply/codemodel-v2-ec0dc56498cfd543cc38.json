@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LaPhoto_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALGO::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALGO-Debug-2e8cf66a3e866634315c.json",
+					"name" : "ALGO",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CHANNEL_MIXER::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CHANNEL_MIXER-Debug-a7e77eb613186e112463.json",
+					"name" : "CHANNEL_MIXER",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CONVERT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CONVERT-Debug-965afd5d7f496819f8ce.json",
+					"name" : "CONVERT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "process_image::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-process_image-Debug-8e61e0cf67bdde7c4a7b.json",
+					"name" : "process_image",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/c/Users/karui/CLionProjects/LaPhoto-cpp/cmake-build-debug",
+		"source" : "/mnt/c/Users/karui/CLionProjects/LaPhoto-cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

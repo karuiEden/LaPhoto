@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libCHANNEL_MIXER.a"
+)

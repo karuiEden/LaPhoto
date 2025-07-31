@@ -1,0 +1,2 @@
+/bin/llvm-ar-18 qc libCONVERT.a CMakeFiles/CONVERT.dir/convert.cpp.o
+/bin/llvm-ranlib-18 libCONVERT.a

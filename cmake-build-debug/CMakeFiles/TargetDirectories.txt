@@ -1,0 +1,6 @@
+/mnt/c/Users/karui/CLionProjects/LaPhoto-cpp/cmake-build-debug/CMakeFiles/CONVERT.dir
+/mnt/c/Users/karui/CLionProjects/LaPhoto-cpp/cmake-build-debug/CMakeFiles/ALGO.dir
+/mnt/c/Users/karui/CLionProjects/LaPhoto-cpp/cmake-build-debug/CMakeFiles/CHANNEL_MIXER.dir
+/mnt/c/Users/karui/CLionProjects/LaPhoto-cpp/cmake-build-debug/CMakeFiles/process_image.dir
+/mnt/c/Users/karui/CLionProjects/LaPhoto-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/karui/CLionProjects/LaPhoto-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
