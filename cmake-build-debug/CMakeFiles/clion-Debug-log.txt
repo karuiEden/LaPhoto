@@ -1,6 +1,0 @@
-/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/bin/clang-18 -G "Unix Makefiles" -S /mnt/c/Users/karui/CLionProjects/LaPhoto-cpp -B /mnt/c/Users/karui/CLionProjects/LaPhoto-cpp/cmake-build-debug
--- OpenCV found. Include dir: /usr/include/opencv4
--- OpenCV libraries: opencv_core;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_core;opencv_highgui;opencv_imgcodecs;opencv_imgproc
--- Configuring done (0.0s)
--- Generating done (0.3s)
--- Build files have been written to: /mnt/c/Users/karui/CLionProjects/LaPhoto-cpp/cmake-build-debug

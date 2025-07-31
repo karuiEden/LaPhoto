@@ -1,1 +1,0 @@
-/bin/c++ -g CMakeFiles/process_image.dir/main.cpp.o -o process_image  libCHANNEL_MIXER.a libCONVERT.a libALGO.a /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.4.6.0 /usr/lib/x86_64-linux-gnu/libopencv_videoio.so.4.6.0 /usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.so.4.6.0 /usr/lib/x86_64-linux-gnu/libopencv_imgproc.so.4.6.0 /usr/lib/x86_64-linux-gnu/libopencv_core.so.4.6.0 
